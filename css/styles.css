@@ -2,12 +2,12 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@500&family=Dosis:wght@300&family=Fredoka:wght@300&family=Roboto+Condensed:wght@300&display=swap');
 /* Styles for the body */
 
 body {
-	font-family: url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
-	color: #20203;
+	color: #20203; 
+	font-family: 'Fredoka', sans-serif;
 	background-color: #f8f8fc;
 }
 
